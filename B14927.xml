@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation of the truce betvveene his Maiesty of Spayne, and their most illustrious  Highnesses on the one party, and the States generall of the vnited Netherlands on the other party proclaymed before the townehouse of the citie of Antwerpe, the 14. of Aprill, Anno. 1609. Translated out of the Dutch, after the copy printed at Antwerpe by Abraham Verhoeuen. 1609.</title>
+            <title>Treaties, etc. United Provinces of the Netherlands. Staten Generaal, 1609 Apr. 14</title>
+            <author>Netherlands. Sovereign (1598-1621 : Albert and Isabella).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1609</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 2 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14927</idno>
+            <idno type="STC">STC 18472a.5</idno>
+            <idno type="STC">ESTC S121582</idno>
+            <idno type="EEBO-CITATION">99856761</idno>
+            <idno type="PROQUEST">99856761</idno>
+            <idno type="VID">178290</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14927)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178290)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1554:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation of the truce betvveene his Maiesty of Spayne, and their most illustrious  Highnesses on the one party, and the States generall of the vnited Netherlands on the other party proclaymed before the townehouse of the citie of Antwerpe, the 14. of Aprill, Anno. 1609. Translated out of the Dutch, after the copy printed at Antwerpe by Abraham Verhoeuen. 1609.</title>
+                  <title>Treaties, etc. United Provinces of the Netherlands. Staten Generaal, 1609 Apr. 14</title>
+                  <author>Netherlands. Sovereign (1598-1621 : Albert and Isabella).</author>
+                  <author>United Provinces of the Netherlands. Staten Generaal. Treaties, etc. Netherlands. Sovereign (1598-1621 : Albert and Isabella), 1609 Apr. 14.</author>
+               </titleStmt>
+               <extent>1 leaf ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[By S. Stafford] for Iohn Budge, and are to be sold at his shop at the great south doore of Saint Pauls Church,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1609.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Formerly STC 19841.</note>
+                  <note>Identified as STC 19841 on UMI microfilm reel 1554.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spain --  Treatises, etc --  Sovereign (1598-1621 : Philip III)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178290:1" rendition="simple:additions"/>
+            <head>A Proclamation of the Truce betvveene his Maieſty of Spayne, and their moſt Illuſtrious Highneſſes on the one party, and the States generall of the vnited Netherlands on the other party, Proclaymed before the Townehouſe of the Citie of Antwerpe, the 14. of Aprill, Anno. 1609.</head>
+            <head type="sub">Tranſlated out of the Dutch, after the Copy printed at Antwerpe by <hi>Abraham Verhoeuen.</hi> 1609.</head>
+            <p>
+               <seg rend="decorInit">B</seg>E it knowne vnto all men, That to the glory and prayſe of God Almighty, and to the welfare and quietnes of whole Chriſtendome, and particularly of theſe Lowe Countryes, it is agreed and concluded, betweene his Maieſty the King of Spayne, &amp;c. and the moſt Illuſtrious Archdukes our Soueraigne Princes on th'one par<g ref="char:EOLhyphen"/>ty, and the States generall of the vnited Netherlandiſh Prouinces on the other party, a good, faſt, firme, vpright, true, and inuiolable Truce and Ceſſation of all actions of Hoſtility, for the time and ſpace of twelue yeeres, aſwell by Sea and other waters, as by land, in all their Kingdomes, Lands, and Dominions, and for all their ſubiects and Inha<g ref="char:EOLhyphen"/>bitants, of what quality and condition ſoeuer they be, which, during the ſayd Truce, ſhall henceforth agree and come, dwell and ſoiourne in the Lands and Countries of one or the other; and there freely and without a<g ref="char:EOLhyphen"/>ny moleſtation, to trade, traffike and vſe their Commerce, aſwell by Sea and other waters, as by Land, and ſhall repoſſeſſe their goods, as more at large doth appeare by the Articles of the ſayd Truce.</p>
+            <p>And the moſt Illuſtrious Archdukes do commaund and charge all and ſinguler being vnder their ſubiection and obedience, to keepe the ſayd Truce inuiolably, &amp; to do nothing contrary to the tenour of the ſayd Truce, vpon payne to be puniſhed, as Breakers of the Peace and Treaty, without any mercy, fauour, compoſiti<g ref="char:EOLhyphen"/>on, conniuency or partiality.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London for <hi>John Budge,</hi> and are be to ſold at his ſhop at the great South doore of Saint Pauls Church. 1609.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
